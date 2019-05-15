@@ -5,7 +5,7 @@
 
 Use Twilio to send SMS alerts so that you never miss a critical issue.
 
-![Alt text](relative/path/to/IMG_5861.PNG?raw=true "Screenshot")
+![alt text](https://github.com/dianagalarza/sms-notifs/blob/master/IMG_5861.PNG)
 
 [Read the full tutorial here](https://www.twilio.com/docs/tutorials/walkthrough/server-notifications/python/django)!
 
