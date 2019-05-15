@@ -3,6 +3,7 @@
 Use Twilio to send SMS alerts so that you never miss a critical issue.
 
 <img src="https://github.com/dianagalarza/sms-notifs/blob/master/IMG_5861.PNG" width="400">
+<img src="https://github.com/dianagalarza/sms-notifs/blob/master/IMG_5862.PNG" width="400">
 
 ## Quickstart
 
