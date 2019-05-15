@@ -1,4 +1,4 @@
-#!/Users/dianagalarza/Downloads/server-notifications-django-master/venv/bin/python
+#!/Users/dianagalarza/server-notifications-django/venv/bin/python
 from django.core import management
 
 if __name__ == "__main__":

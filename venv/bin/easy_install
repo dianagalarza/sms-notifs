@@ -1,4 +1,4 @@
-#!/Users/dianagalarza/Downloads/server-notifications-django-master/venv/bin/python
+#!/Users/dianagalarza/server-notifications-django/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

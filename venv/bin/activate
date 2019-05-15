@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/dianagalarza/Downloads/server-notifications-django-master/venv"
+VIRTUAL_ENV="/Users/dianagalarza/server-notifications-django/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
